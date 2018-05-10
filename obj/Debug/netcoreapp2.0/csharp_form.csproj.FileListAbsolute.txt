@@ -1,0 +1,10 @@
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/csharp_form/bin/Debug/netcoreapp2.0/csharp_form.deps.json
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/csharp_form/bin/Debug/netcoreapp2.0/csharp_form.runtimeconfig.json
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/csharp_form/bin/Debug/netcoreapp2.0/csharp_form.runtimeconfig.dev.json
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/csharp_form/bin/Debug/netcoreapp2.0/csharp_form.dll
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/csharp_form/bin/Debug/netcoreapp2.0/csharp_form.pdb
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/csharp_form/obj/Debug/netcoreapp2.0/csharp_form.csproj.CoreCompileInputs.cache
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/csharp_form/obj/Debug/netcoreapp2.0/csharp_form.AssemblyInfoInputs.cache
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/csharp_form/obj/Debug/netcoreapp2.0/csharp_form.AssemblyInfo.cs
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/csharp_form/obj/Debug/netcoreapp2.0/csharp_form.dll
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/csharp_form/obj/Debug/netcoreapp2.0/csharp_form.pdb
